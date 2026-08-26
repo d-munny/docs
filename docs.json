@@ -23,26 +23,22 @@
         }
       ]
     },
-    "dropdowns": [
+    "pages": [
       {
-        "dropdown": "Getting Started",
+        "group": "Getting Started",
+        "public": true,
         "pages": [
           "index",
           "quickstart"
         ]
       },
       {
-        "dropdown": "Secrets",
+        "group": "Secrets",
         "pages": [
           "secrets/classified"
         ]
       },
-      {
-        "dropdown": "Bonus",
-        "pages": [
-          "the-duck-conspiracy"
-        ]
-      }
+      "the-duck-conspiracy"
     ]
   },
   "logo": {
