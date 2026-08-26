@@ -34,7 +34,6 @@
       {
         "group": "Secrets",
         "pages": [
-          "secrets/classified",
           "secrets/vip"
         ]
       },
