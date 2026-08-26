@@ -16,6 +16,21 @@
           "index",
           "quickstart"
         ]
+      },
+      {
+        "group": "Secrets",
+        "pages": [
+          "secrets/classified",
+          "team-notes"
+        ]
+      },
+      "the-duck-conspiracy",
+      {
+        "group": "Getting Started",
+        "pages": [
+          "index",
+          "quickstart"
+        ]
       }
     ],
     "global": {
@@ -31,23 +46,7 @@
           "icon": "newspaper"
         }
       ]
-    },
-    "groups": [
-      {
-        "group": "Getting Started",
-        "pages": [
-          "index",
-          "quickstart"
-        ],
-        "public": true
-      },
-      {
-        "group": "Secrets",
-        "pages": [
-          "secrets/classified"
-        ]
-      }
-    ]
+    }
   },
   "logo": {
     "light": "/logo/light.svg",
