@@ -34,7 +34,8 @@
       {
         "group": "Secrets",
         "pages": [
-          "secrets/classified"
+          "secrets/classified",
+          "secrets/vip"
         ]
       },
       "the-duck-conspiracy"
