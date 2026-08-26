@@ -26,7 +26,6 @@
     "pages": [
       {
         "group": "Getting Started",
-        "public": true,
         "pages": [
           "index",
           "quickstart"
