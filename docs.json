@@ -15,7 +15,8 @@
         "pages": [
           "index",
           "quickstart"
-        ]
+        ],
+        "public": true
       },
       {
         "group": "Secrets",
