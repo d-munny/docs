@@ -9,23 +9,6 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "pages": [
-      {
-        "group": "Getting Started",
-        "pages": [
-          "index",
-          "quickstart"
-        ],
-        "public": true
-      },
-      {
-        "group": "Secrets",
-        "pages": [
-          "secrets/classified"
-        ]
-      },
-      "the-duck-conspiracy"
-    ],
     "global": {
       "anchors": [
         {
@@ -39,7 +22,28 @@
           "icon": "newspaper"
         }
       ]
-    }
+    },
+    "dropdowns": [
+      {
+        "dropdown": "Getting Started",
+        "pages": [
+          "index",
+          "quickstart"
+        ]
+      },
+      {
+        "dropdown": "Secrets",
+        "pages": [
+          "secrets/classified"
+        ]
+      },
+      {
+        "dropdown": "Bonus",
+        "pages": [
+          "the-duck-conspiracy"
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
