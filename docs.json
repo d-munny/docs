@@ -44,8 +44,8 @@
           {
             "group": "Secrets",
             "pages": [
-              "secrets/classified",
-              "secrets/vip",
+              "secrets/admin",
+              "secrets/vip-lounge",
               {
                 "group": "IYKYK",
                 "pages": [
