@@ -23,29 +23,39 @@
         }
       ]
     },
-    "pages": [
+    "tabs": [
       {
-        "group": "Getting Started",
+        "tab": "General",
         "pages": [
-          "index",
-          "quickstart"
+          {
+            "group": "Getting Started",
+            "pages": [
+              "index",
+              "quickstart"
+            ]
+          },
+          "the-duck-conspiracy"
         ]
       },
       {
-        "group": "Secrets",
-        "pages": [
-          "secrets/classified",
-          "secrets/vip",
+        "tab": "VIP",
+        "groups": [
           {
-            "group": "IYKYK",
+            "group": "Secrets",
             "pages": [
-              "secrets/deep/lore",
-              "secrets/deep/rituals"
+              "secrets/classified",
+              "secrets/vip",
+              {
+                "group": "IYKYK",
+                "pages": [
+                  "secrets/deep/lore",
+                  "secrets/deep/rituals"
+                ]
+              }
             ]
           }
         ]
-      },
-      "the-duck-conspiracy"
+      }
     ]
   },
   "logo": {
